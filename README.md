@@ -10,7 +10,11 @@ Projektin tuotejono [tulossa].
 
 Tuntikirjanpito [tulossa].
 
-Figma prototyyppi [tulossa].
+Figma käyttöliittymäprototyyppi [tulossa].
+
+Sovellus [tulossa].
+
+
 
 
 
